@@ -1,14 +1,14 @@
 //This is where the cheats are labeled and stored. Anytime you want to use them, use inspect element, click "console", copy/paste the command that you want to use, and reload the page.
 
-localStorage.setItem("coinsOwned", coinsyouwant); //Replace "coinsyouwant" with the amount that you want.
+localStorage.setItem("coinsOwned", 10000000000000000000000); //Replace "coinsyouwant" with the amount that you want.
 
-localStorage.setItem("playerXP", xpyouwant); //Replace "xpyouwant" with the amount that you want.
+localStorage.setItem("playerXP", 10000000000 ); //Replace "xpyouwant" with the amount that you want.
 
 localStorage.setItem("playerSkin", skinyouwant); //Replace "skinyouwant" with the skin that you want, a number ranging from 1 to 35.
 
 localStorage.setItem("playerPet", petyouwant); //Replace "petyouwant" with the pet that you want, a number ranging from 1 to 9.
 
-localStorage.setItem("playerPetLevel", levelyouwant); //Replace "levelyouwant" with the pet level that you want, a number ranging from 1 to 14.
+localStorage.setItem("playerPetLevel", 1000000000); //Replace "levelyouwant" with the pet level that you want, a number ranging from 1 to 14.
 
 //These are the required xp levels that are needed to unlock certain islands. Use these with the playerXP command above.
 
